@@ -1,4 +1,4 @@
-# Calendar Rewind travel places database
+# Calendar Rewind Travel Data
 
 This repository provides [`travel_places.sqlite`](travel_places.sqlite), an offline geographic reference database used by Calendar Rewind's Travel recognition. It holds populated places, country names, first-level administrative regions, and airports so the app can match place names and airport codes without a network service.
 
