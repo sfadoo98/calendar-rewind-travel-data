@@ -1,6 +1,6 @@
 # Calendar Rewind Travel Data
 
-This repository provides [`travel_places.sqlite`](travel_places.sqlite), an offline geographic reference database used by Calendar Rewind's Travel recognition. It holds populated places, country names, first-level administrative regions, and airports so the app can match place names and airport codes without a network service.
+This repository provides [`travel_places.sqlite`](travel_places.sqlite), an offline geographic reference database used by Calendar Rewind, a free iOS app for looking back through events saved in Apple Calendar. It holds populated places, country names, first-level administrative regions, and airports so the app can match place names and airport codes without a network service.
 
 Download [`travel_places.sqlite`](travel_places.sqlite) (15,020,032 bytes). SHA-256: `8eb1566b6488437aff9f44981b01913cde86d1634c9213f36203e6dcd37ab604`.
 
